@@ -1,0 +1,10 @@
+{
+  "total_records": 500,
+  "total_waste_cost": 4111395.53,
+  "avg_waste_pct": 12.75,
+  "median_waste_pct": 12.96,
+  "total_potential_savings": 1525291.87,
+  "savings_pct": 37.1,
+  "pareto_80_records": 215,
+  "pareto_80_pct": 43.0
+}
